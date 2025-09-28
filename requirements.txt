@@ -1,0 +1,7 @@
+flask
+pandas
+openpyxl  # Needed for reading .xlsx files
+matplotlib
+numpy
+adjustText
+google-cloud-aiplatform
